@@ -1,0 +1,39 @@
+{"data_columns": ["work_year", "experience_level", "employment_type", "job_title", "salary_currency", "employee_residence", "remote_ratio", "company_location", "company_size"], 
+
+"job_titles": ["AI Engineer", "Business Intelligence Specialist", "Data Analyst", "Data Engineer", "Data Scientist", "IT Manager", "Machine Learning Engineer", "Software Engineer"], 
+
+"company_locations": [
+  "Algeria", "American Samoa", "Andorra", "Argentina", "Armenia", "Australia", "Austria", "Bahamas",
+  "Belgium", "Bosnia and Herzegovina", "Brazil", "Bulgaria", "Canada", "Central African Republic", "Chile",
+  "China", "Colombia", "Costa Rica", "Croatia", "Cyprus", "Czech Republic", "Democratic Republic of the Congo",
+  "Denmark", "Dominican Republic", "Ecuador", "Egypt", "El Salvador", "Estonia", "Finland", "France",
+  "Germany", "Ghana", "Gibraltar", "Greece", "Hong Kong", "Hungary", "India", "Indonesia", "Iran", "Ireland",
+  "Israel", "Italy", "Japan", "Kenya", "Kosovo", "Latvia", "Lebanon", "Lithuania", "Luxembourg", "Malaysia",
+  "Malta", "Mexico", "Moldova", "Netherlands", "New Zealand", "Nigeria", "Norway", "Oman", "Pakistan", "Peru",
+  "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar", "Romania", "Russia", "Saudi Arabia", "Serbia",
+  "Singapore", "Slovakia", "Slovenia", "South Africa", "South Korea", "Spain", "Sweden", "Switzerland",
+  "Taiwan", "Thailand", "Turkey", "Ukraine", "United Arab Emirates", "United Kingdom", "United States",
+  "Uruguay", "Venezuela", "Vietnam", "Zambia"
+], 
+
+"currency": [
+  "AUD", "BRL", "CAD", "CHF", "CZK", "DKK", "EUR", "GBP", "HKD", "HUF",
+  "ILS", "INR", "JPY", "MXN", "NOK", "PHP", "PLN", "SGD", "THB", "TRY",
+  "TWD", "USD", "ZAR"
+],
+
+"employee_residence": [
+  "Algeria", "American Samoa", "Andorra", "Argentina", "Armenia", "Australia", "Austria", "Belgium",
+  "Bermuda", "Bolivia", "Bosnia and Herzegovina", "Brazil", "Bulgaria", "Canada", "Central African Republic",
+  "Chile", "China", "Colombia", "Costa Rica", "Croatia", "Cyprus", "Czech Republic", "Denmark",
+  "Dominican Republic", "Ecuador", "Egypt", "El Salvador", "Estonia", "Finland", "France", "Georgia",
+  "Germany", "Ghana", "Greece", "Honduras", "Hong Kong", "Hungary", "India", "Indonesia", "Iran",
+  "Ireland", "Israel", "Italy", "Japan", "Jersey", "Kenya", "Kosovo", "Kuwait", "Latvia", "Lebanon",
+  "Lithuania", "Luxembourg", "Malaysia", "Malta", "Mexico", "Moldova", "Netherlands", "New Zealand",
+  "Nigeria", "Norway", "Oman", "Pakistan", "Peru", "Philippines", "Poland", "Portugal", "Puerto Rico",
+  "Qatar", "Romania", "Russia", "Rwanda", "Saudi Arabia", "Serbia", "Singapore", "Slovakia", "Slovenia",
+  "South Africa", "South Korea", "Spain", "Sweden", "Switzerland", "Taiwan", "Thailand", "Tunisia",
+  "Turkey", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", "United States", "Uruguay",
+  "Uzbekistan", "Venezuela", "Vietnam", "Zambia"
+]
+}
